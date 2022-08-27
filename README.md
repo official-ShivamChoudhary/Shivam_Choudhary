@@ -1,9 +1,4 @@
-### Hi there 👋
 
-<!--
-**shivamkumar123456/shivamkumar123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Shivam Choudhary</h1>
 <h3 align="center">I'm B.Tech Computer Science Student of University of Engineering & Management, Jaipur</h3>
