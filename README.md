@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋,I'm Shivam Choudhary</h1>
-<h2 align="center"> B.Tech Computer Science Student of University of Engineering & Management, Jaipur</h3>
+<h2 align="center"> B.Tech Computer Science Student of University of Engineering & Management, Jaipur 
+  I'm in final year & I'm looking for a Job as a software Engineer </h3>
 
 <img align="center"> <img src="https://user-images.githubusercontent.com/72095437/186978403-52f0fa26-66b4-4c67-85cc-c506b6ad2852.gif">
 
