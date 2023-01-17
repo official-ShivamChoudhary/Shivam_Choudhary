@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/shivamkumar123456?tab=projects&type=classic](https://github.com/shivamkumar123456?tab=projects&type=classic)
 
 - 📫 How to reach me **shivamkumar11062@gmail.com**
-- 📫 How to reach me **6202213354**
+- 📫 How to reach me **+91 6202213354**
 
 
 
