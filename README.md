@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋,I'm Shivam Choudhary</h1>
+<h1 align="center">Hi 👋,I'm Shivam Choudhary & I'm a Web developer</h1>
 <h2 align="center"> B.Tech Computer Science Student of University of Engineering & Management, Jaipur 
   I'm in final year & I'm looking for a Job as a software Engineer ! </h3>
 
