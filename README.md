@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivamk80168283?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/shivamk80168283?s=08?logo=twitter&style=for-the-badge" alt="shivamk80168283?s=08" /></a> </p>
 
-- 🌱 I’m currently learning **Python with Machine Learning**
+- 🌱 I’m currently learning **Web developer**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamkumar123456?tab=projects&type=classic](https://github.com/shivamkumar123456?tab=projects&type=classic)
