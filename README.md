@@ -1,9 +1,9 @@
 
 
 
-<h1 align="center">Hi 👋,I'm Shivam Choudhary & I'm a Web developer</h1>
+<h1 align="center">Hi 👋,I'm Shivam Choudhary & Software Trainee Under corporate training program in Chetu</h1>
 <h2 align="center"> B.Tech Computer Science Student of University of Engineering & Management, Jaipur 
-  Software Trainee Under corporate training program in Chetu ! </h3>
+  I have completed my graduation may"23" ! </h3>
 
 <img align="center"> <img src="https://user-images.githubusercontent.com/72095437/186978403-52f0fa26-66b4-4c67-85cc-c506b6ad2852.gif">
 
