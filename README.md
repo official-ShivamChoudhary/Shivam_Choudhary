@@ -1,7 +1,8 @@
 
 
 
-<h1 align="center">Hi 👋,I'm Shivam Choudhary & Software Trainee Under corporate training program in Chetu</h1>
+<h1 align="center">Hi 👋,I'm Shivam Choudhary</h1>
+<h2 align="center"> Software Trainee Under corporate training program in Chetu</h2>
 <h2 align="center"> B.Tech Computer Science Student of University of Engineering & Management, Jaipur 
   I have completed my graduation may"23" ! </h3>
 
