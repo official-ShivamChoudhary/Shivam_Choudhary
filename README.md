@@ -5,14 +5,14 @@
 
 <h2 align="center"> B.Tech Computer Science Student of University of Engineering & Management, Jaipur 
   I have completed my graduation may"23" ! </h2>
-  <h2 align="center"> Software Trainee Under corporate training program in Chetu</h2>
+  <h2 align="center"> Software Trainee Under Chetu India Pvt.Ltd.</h2>
 
 <img align="center"> <img src="https://user-images.githubusercontent.com/72095437/186978403-52f0fa26-66b4-4c67-85cc-c506b6ad2852.gif">
 
 
 <p align="left"> <a href="https://twitter.com/shivamk80168283?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/shivamk80168283?s=08?logo=twitter&style=for-the-badge" alt="shivamk80168283?s=08" /></a> </p>
 
-- 🌱 I’m currently learning **Web developer**
+- 🌱 I’m currently learning **>Net + C#**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamkumar123456?tab=projects&type=classic](https://github.com/shivamkumar123456?tab=projects&type=classic)
