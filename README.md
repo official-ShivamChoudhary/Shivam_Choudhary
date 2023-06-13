@@ -11,8 +11,9 @@
 
 
 <p align="left"> <a href="https://twitter.com/shivamk80168283?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/shivamk80168283?s=08?logo=twitter&style=for-the-badge" alt="shivamk80168283?s=08" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/shivam_choudhary11062/" target="blank"><img src="https://www.instagram.com/shivam_choudhary11062/" alt="shivamk80168283?s=08" /></a> </p>
 
-- 🌱 I’m currently learning **>Net + C#**
+- 🌱 I’m currently learning **.Net + C#**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamkumar123456?tab=projects&type=classic](https://github.com/shivamkumar123456?tab=projects&type=classic)
@@ -36,5 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamkumar123456&show_icons=true&locale=en" alt="shivamkumar123456" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumar123456&" alt="shivamkumar123456" /></p>
-<p><img align="left" src="https://www.instagram.com/shivam_choudhary11062"/></p>
+
