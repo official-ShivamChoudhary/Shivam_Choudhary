@@ -11,7 +11,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/shivamk80168283?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/shivamk80168283?s=08?logo=twitter&style=for-the-badge" alt="shivamk80168283?s=08" /></a> </p>
-<p align="left"> <a href="https://www.instagram.com/shivam_choudhary11062/" target="blank"><img src="https://www.instagram.com/shivam_choudhary11062/" alt="https://www.instagram.com/shivam_choudhary11062/" /></a> </p>
+
 
 - 🌱 I’m currently learning **.Net + C#**
 
