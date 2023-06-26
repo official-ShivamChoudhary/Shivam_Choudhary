@@ -10,13 +10,13 @@
 <img align="center"> <img src="https://user-images.githubusercontent.com/72095437/186978403-52f0fa26-66b4-4c67-85cc-c506b6ad2852.gif">
 
 
-<p align="left"> <a href="https://twitter.com/shivamk80168283?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/shivamk80168283?s=08?logo=twitter&style=for-the-badge" alt="shivamk80168283?s=08" /></a> </p>
+
 
 
 - 🌱 I’m currently learning **.Net Framework (MVC)  C#**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/official-ShivamChoudhary?tab=projects&type=classic)
+- 👨‍💻 All of my projects are available at (https://github.com/official-ShivamChoudhary?tab=projects&type=classic)
 
 - 📫 How to reach me **shivamkumar11062@gmail.com**
 - 📫 How to reach me **+91 6202213354**
