@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **.Net Framework (MVC)  C#**
+- 🌱 I’m currently Working as a *** Software developer ****
 
 
 - 👨‍💻 All of my projects are available at (https://github.com/official-ShivamChoudhary?tab=projects&type=classic)
