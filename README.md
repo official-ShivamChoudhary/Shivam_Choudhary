@@ -13,13 +13,9 @@
 
 
 
-- 🌱 I’m currently Working as a Software developer at Chetu India Pvt.Ltd 
-
-
-- 👨‍💻 All of my projects are available at (https://github.com/official-ShivamChoudhary?tab=projects&type=classic)
-
-- 📫 How to reach me **shivamkumar11062@gmail.com**
-- 📫 How to reach me **+91 6202213354**
+- 🌱 I’m currently Working as a Software Engineer at Chetu India Pvt.Ltd 
+- 📫 Reach me **shivamkumar11062@gmail.com**
+- 📫 Connect me **+91 6202213354**
 
 
 
