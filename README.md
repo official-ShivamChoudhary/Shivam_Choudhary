@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋,I'm Shivam Choudhary</h1>
 
 <h2 align="center"> B.Tech Computer Science Student of University of Engineering & Management, Jaipur 
-  I have completed my graduation B.Tech. (CSE)"2k23" ! </h2>
+  </h2>
   <h2 align="center"> Software Engineer at Chetu India Pvt.Ltd </h2>
 
 <img align="center"> <img src="https://user-images.githubusercontent.com/72095437/186978403-52f0fa26-66b4-4c67-85cc-c506b6ad2852.gif">
