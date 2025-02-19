@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently Working as a Software Engineer at Chetu India Pvt.Ltd 
+- 🌱 I’m currently Working as a Software Engineer at Stallion onebyte Pvt Ltd.
 - 📫 Reach me **shivamkumar11062@gmail.com**
 - 📫 Connect me **+91 6202213354**
 
